@@ -12,7 +12,6 @@ describe('CI sequence', () => {
   });
 
   // TODO add the tests between these comments =>
-    //
   it('1. pull latest code', () => {
     expect(/.*pull.*/ig.test(fileContents)).toBe(true);
   });

@@ -1,5 +1,6 @@
 # GitHub Flow
 
+
 1. Pull in the latest code. Create a branch from `master`. Start working.    
 2. Create commits on your new branch. Build and test locally.  
   Pass? Go to the next step. Fail? Fix errors or tests and try again.  
